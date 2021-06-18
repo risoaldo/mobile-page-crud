@@ -1,0 +1,12 @@
+{
+  "name": "mobile-page-crud",
+  "displayName": "mobile-page-crud",
+  "expo": {
+    "name": "mobile-page-crud",
+    "slug": "mobile-page-crud",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
